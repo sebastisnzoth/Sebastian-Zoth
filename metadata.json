@@ -1,0 +1,6 @@
+{
+  "name": "Sebastián Zoth - Press Kit",
+  "description": "Press kit oficial de Sebastián Zoth. Rock argentino / Pop alternativo. Música, demos, letras y presentación interactiva para productores y prensa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
