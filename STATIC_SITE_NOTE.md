@@ -1,0 +1,1 @@
+La rama `site-with-media` contiene la versión estática optimizada para Vercel con fotos y clips de video integrados. Los archivos multimedia están optimizados para carga rápida en celular.
